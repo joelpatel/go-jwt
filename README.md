@@ -2,10 +2,10 @@
 
 ## Functionality
 
-- Store hashed password in database
-- Use jwt to issue token and refresh token
-- Production project structure
-- Validation on incoming signup requests
+- Store hashed password in database.
+- Use jwt to issue token and refresh token.
+- Production project structure.
+- Validation on incoming signup requests.
 
 ## Instructions
 
@@ -19,3 +19,6 @@ Add following details in the `.env` file at root directory of this project. [NOT
 
 Run `go mod tidy` to install dependencies.  
 Execute `go run ./...` to start the server.
+
+Download and import the postman requests from `postman` directory.  
+Modify and run those sample APIs.
